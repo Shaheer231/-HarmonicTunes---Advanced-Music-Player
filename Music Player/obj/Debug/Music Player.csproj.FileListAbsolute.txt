@@ -1,0 +1,20 @@
+D:\Music Player\Music Player\bin\Debug\Music Player.exe.config
+D:\Music Player\Music Player\bin\Debug\Music Player.exe
+D:\Music Player\Music Player\bin\Debug\Music Player.pdb
+D:\Music Player\Music Player\bin\Debug\Guna.UI2.dll
+D:\Music Player\Music Player\obj\Debug\Music Player.csproj.AssemblyReference.cache
+D:\Music Player\Music Player\obj\Debug\Music_Player.Form1.resources
+D:\Music Player\Music Player\obj\Debug\Music_Player.Form2.resources
+D:\Music Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\Music Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\Music Player\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+D:\Music Player\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+D:\Music Player\Music Player\obj\Debug\Music Player.exe
+D:\Music Player\Music Player\obj\Debug\Music Player.pdb
+D:\Music Player\Music Player\bin\Debug\Guna.UI.dll
+D:\Music Player\Music Player\bin\Debug\Interop.WMPLib.dll
+D:\Music Player\Music Player\bin\Debug\AxInterop.WMPLib.dll
+D:\Music Player\Music Player\obj\Debug\Interop.WMPLib.dll
+D:\Music Player\Music Player\obj\Debug\AxInterop.WMPLib.dll
+D:\Music Player\Music Player\obj\Debug\Music Player.csproj.ResolveComReference.cache
+D:\Music Player\Music Player\bin\Debug\ColorSlider.dll
